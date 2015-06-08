@@ -1,0 +1,12 @@
+<h1>Login Page</h1>
+<hr>
+<br>
+<%= form_tag(pages_home_path) do %>
+<%= label_tag :email %><br>
+<%= text_field_tag :email %>
+<br>
+<%= label_tag :password %><br>
+<%= text_field_tag :password %><br>
+<br>
+<%= submit_tag 'Login'%>
+<% end %>

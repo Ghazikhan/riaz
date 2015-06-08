@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  session_sdate: 2015-06-04
+  session_edate: 2015-06-04
+  program_id: 1
+
+two:
+  session_sdate: 2015-06-04
+  session_edate: 2015-06-04
+  program_id: 1
